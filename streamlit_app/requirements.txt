@@ -10,4 +10,4 @@ spacy
 transformers
 nltk
 python-doctr
-tensorflow==2.2.0
+tensorflow==2.5.0
