@@ -11,4 +11,4 @@ transformers
 nltk
 python-doctr
 tensorflow
-protobuf=3.9.2
+protobuf==3.9.2
