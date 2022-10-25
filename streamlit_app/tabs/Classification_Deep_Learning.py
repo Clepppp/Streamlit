@@ -67,7 +67,7 @@ def run():
         22:'questionnaire',
         }
 
-        loaded_model = joblib.load(r'/home/clement/Documents/Datascientist/Git/ocr-classification/model/Deep.pkl')
-        result = loaded_model.predict(img_batch)
-        st.write("La classe prédite est :", dic[np.argmax(result[0])])
+        #loaded_model = joblib.load(r'/home/clement/Documents/Datascientist/Git/ocr-classification/model/Deep.pkl')
+        #result = loaded_model.predict(img_batch)
+        #st.write("La classe prédite est :", dic[np.argmax(result[0])])
 
