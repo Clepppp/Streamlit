@@ -10,3 +10,4 @@ spacy
 transformers
 nltk
 python-doctr
+protobuf>=3.4.0
