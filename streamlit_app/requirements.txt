@@ -1,6 +1,6 @@
 numpy
 pandas
-streamlit==1.13.0
+streamlit
 Pillow
 tesseract
 pytesseract
